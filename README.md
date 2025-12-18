@@ -15,7 +15,7 @@ This is where I will host my personal and university projects.
 | Classmates | August 2025 | Meet new people in this VC social hangout game. | [Play](https://www.roblox.com/games/121335031927444/Classmates) |
 | Sokoban DIDPpy | May 2025 | Domain specific DIDPpy models for the 2D puzzle game Sokoban. | [View](https://github.com/RobbieTmbs/Sokoban-DIDPpy) |
 
-### ✉️ Contact
+### Contact
 - Email: toombr100@gmail.com
 - LinkedIn: [robert-toombs-8b3a9635a](https://linkedin.com/in/robert-toombs-8b3a9635a)
 - Roblox: [https://www.roblox.com/users/126828374/profile](https://www.roblox.com/users/126828374/profile)
